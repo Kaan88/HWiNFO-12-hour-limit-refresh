@@ -1,3 +1,5 @@
+Just a fork to revert the changes. 
+
 Kai of <a href="https://precisionplanit.com">PrecisionPlanIT.com</a> presents:
 
 # HWiNFO_Refresh
